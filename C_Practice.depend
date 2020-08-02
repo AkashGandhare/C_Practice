@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1596361312 source:d:\codeblocks_projects\c_practice\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1596361508 source:d:\codeblocks_projects\c_practice\pointer_concept.c
+
