@@ -40,6 +40,12 @@
 		<Unit filename="pointer_concept.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="struct_concept.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="test_unsigned_int.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
