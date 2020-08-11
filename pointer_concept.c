@@ -1,3 +1,7 @@
+#include <stdio.h>
+#include <stdint.h>
+#include <limits.h>
+
 
 void test_pointer() {
 
@@ -8,5 +12,16 @@ void test_pointer() {
     printf("first element = %c", p[0]);
 }
 
+void test_pointer_2() {
+
+    #if CHAR_BIT != 8
+    #error "CHAR_BIT must be 8"
+    #endif // CHAR_BIT
+
+    uint8_t u8_arr[] = {0x12, 0x56, 0x9A, 0xDE};
+    unsigned int* ui_ptr = (void *)u8_arr;
+
+    printf("%u\r\n", (unsigned)(*ui_ptr));
+}
 
 
