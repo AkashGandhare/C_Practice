@@ -40,6 +40,9 @@
 		<Unit filename="pointer_concept.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="recursive.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="struct_concept.c">
 			<Option compilerVar="CC" />
 		</Unit>
