@@ -21,7 +21,8 @@ int main()
 //        recursive(20);
 //        float_modulo(20.0);
 //        static_recursive();
-        local_global_var();
+//        local_global_var();
+            union_concept();
 
     return 0;
 }
