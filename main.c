@@ -6,6 +6,7 @@ extern void recursive(int);
 extern void float_modulo(float);
 extern void  static_recursive();
 extern void local_global_var();
+void general_concept();
 
 int x = 5;
 int main()
@@ -23,7 +24,8 @@ int main()
 //        static_recursive();
 //        static_recursive();
 //        local_global_var();
-            union_concept();
+//            union_concept();
+            general_concept();
 
     return 0;
 }
