@@ -7,6 +7,7 @@ extern void float_modulo(float);
 extern void  static_recursive();
 extern void local_global_var();
 void general_concept();
+void micros();
 
 int x = 5;
 int main()
@@ -25,7 +26,8 @@ int main()
 //        static_recursive();
 //        local_global_var();
 //            union_concept();
-            general_concept();
+//            general_concept();
+            micros();
 
     return 0;
 }

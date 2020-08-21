@@ -10,7 +10,7 @@
 	<stdint.h>
 	<limits.h>
 
-1597582031 source:d:\codeblocks_projects\git_clones\c_practice\c_practice\main.c
+1598006283 source:d:\codeblocks_projects\git_clones\c_practice\c_practice\main.c
 	<stdio.h>
 	<stdlib.h>
 
@@ -37,6 +37,10 @@
 	<stdlib.h>
 
 1597582371 source:d:\codeblocks_projects\git_clones\c_practice\c_practice\general_concept.c
+	<stdio.h>
+	<stdlib.h>
+
+1598006485 source:d:\codeblocks_projects\git_clones\c_practice\c_practice\micros.c
 	<stdio.h>
 	<stdlib.h>
 

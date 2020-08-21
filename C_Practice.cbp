@@ -40,6 +40,9 @@
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="micros.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="pointer_concept.c">
 			<Option compilerVar="CC" />
 		</Unit>
