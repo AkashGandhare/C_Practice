@@ -9,5 +9,8 @@ void micros() {
     printf("Time: %s \n",__TIME__ );
     printf("Date: %s \n",__DATE__ );
 
+//    const char* name = "FLUX";
+//    printf("%d",strlen(name));
+
 }
 

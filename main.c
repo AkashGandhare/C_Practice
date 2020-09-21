@@ -8,6 +8,7 @@ extern void  static_recursive();
 extern void local_global_var();
 void general_concept();
 void micros();
+void find_large_small_number();
 
 int x = 5;
 int main()
@@ -27,7 +28,9 @@ int main()
 //        local_global_var();
 //            union_concept();
 //            general_concept();
-            micros();
+//            micros();
+        find_large_small_number();
+
 
     return 0;
 }

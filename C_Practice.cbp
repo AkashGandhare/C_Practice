@@ -37,6 +37,9 @@
 		<Unit filename="general_concept.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="large_small_numbers.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
