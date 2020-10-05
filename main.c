@@ -10,11 +10,19 @@ void general_concept();
 void micros();
 void find_large_small_number();
 
-int x = 5;
+int x = 10;
+int y = 1;
 int main()
 {
-
-//      test_pointer(); /**< assigning char* to int* and test */
+    //testing recursive function
+//    printf("%d ", y);
+//    x--;
+//    y++;
+//    while(x) {
+//
+//        main();
+//    }
+      test_pointer(); /**< assigning char* to int* and test */
 //      forLoop_test(); /**< for loop testing with multiple conditions */
 //      test_unsigned_int();
 //      struct_concept();
@@ -26,10 +34,10 @@ int main()
 //        static_recursive();
 //        static_recursive();
 //        local_global_var();
-//            union_concept();
-//            general_concept();
-//            micros();
-        find_large_small_number();
+//        union_concept();
+//        general_concept();
+//        micros();
+//        find_large_small_number();
 
 
     return 0;
